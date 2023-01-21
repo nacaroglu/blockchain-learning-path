@@ -8,8 +8,8 @@ work in progress, please open an issue or send a pull request to help improving 
 Besides a programming background, this path assumes that the reader is at least a little comfortable
 with:
 
-- Public key cryptography
-  [] 1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
+[] - Public key cryptography
+  1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
   2. Read [What is Public-key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography). (Est. time: 4 minutes)
 - Digital signatures
   1. Read [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm). (Est. time: 10 minutes)
