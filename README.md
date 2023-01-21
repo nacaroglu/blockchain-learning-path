@@ -8,6 +8,8 @@ work in progress, please open an issue or send a pull request to help improving 
 Besides a programming background, this path assumes that the reader is at least a little comfortable
 with:
 
+- [ Coursera Cryptography Course](https://www.coursera.org/learn/crypto)
+
 - Public key cryptography
   1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
   2. Read [What is Public-key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography). (Est. time: 4 minutes)
