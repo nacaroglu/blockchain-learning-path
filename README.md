@@ -14,8 +14,8 @@ with:
   - [X] Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes) 
   - [X] Read [What is Public-key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography). (Est. time: 4 minutes)
 - Digital signatures
-  - [ ] Read [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm). (Est. time: 10 minutes)
-  - [ ] Watch [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
+  - [X] Read [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm). (Est. time: 10 minutes)
+  - [X] Watch [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
 - Cryptographic hashing
   - [ ] Watch [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70) (Est. time: 5 minutes)
   - [ ] Read [What is Hashing in Blockchain?](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/). (Est. time: 9 minutes)
