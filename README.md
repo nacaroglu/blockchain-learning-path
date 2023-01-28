@@ -30,6 +30,7 @@ with:
 - [ ] Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
 - [ ] Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous
    article but useful to solidify your knowledge). (Est. time: 26 minutes)
+- [ ] [Bitcoin white paper explained](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)   
 
 ## Ethereum
 
